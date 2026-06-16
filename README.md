@@ -22,9 +22,7 @@ Exploring architectural intelligence through source code analysis, call graphs a
 
 Building workflows that reduce engineering interruptions and improve support escalation processes.
 
-### Digital Authority System
-
-Experimenting with a personal knowledge and publishing pipeline powered by notes, AI agents and long-form technical writing.
+Building an ecosystem of AI agents, knowledge systems and publishing workflows to augment engineering work.
 
 ## Writing about
 
