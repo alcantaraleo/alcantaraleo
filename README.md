@@ -1,64 +1,52 @@
 # Leonardo Andreatta de Alcantara
 
-Engineering Manager exploring the intersection of AI, software engineering and operational excellence.
+Engineering Manager with nearly two decades of software engineering experience.
 
-I build systems, tools and workflows around AI-assisted operations, quality engineering, developer productivity and engineering leadership.
+I spent most of my career building software systems. Today, I apply the same systems thinking to people, processes and engineering organizations.
 
-## Areas of focus
+I enjoy solving problems that sit at the intersection of technology, organizational design and decision making.
 
-- AI for Operations
-- Quality Engineering
-- Platform Engineering
-- Engineering Leadership
-- Developer Productivity
+## What I care about
+
+- Reducing organizational friction
+- Making implicit systems visible
+- Improving engineering decision making
+- Turning chaotic processes into repeatable outcomes
+- Building sustainable engineering organizations
 
 ## Current initiatives
 
 ### Graphus
 
-Exploring architectural intelligence through source code analysis, call graphs and knowledge extraction.
+Making software architecture visible through source code analysis and knowledge extraction.
 
 ### AI-assisted support systems
 
-Building workflows that reduce engineering interruptions and improve support escalation processes.
+Building systems that reduce engineering interruptions and improve support escalation processes.
 
-Building an ecosystem of AI agents, knowledge systems and publishing workflows to augment engineering work.
+### Personal Knowledge Architecture
+
+Experimenting with systems that transform high-entropy information into durable patterns and actionable insights.
 
 ## Writing about
 
-- AI in engineering organizations
-- Operational intelligence
+- Engineering organizations as systems
+- Organizational friction
+- Hidden knowledge and decision making
 - Quality engineering beyond test automation
-- Engineering metrics that actually matter
-- Building sustainable engineering systems
-- Developer productivity
+- Sustainable engineering practices
+- Technology adoption in engineering teams
 
 ## Elsewhere
 
-🌐 Website
+🌐 https://leonardoandreatta.com
 
-https://leonardoandreatta.com
-
-💼 LinkedIn
-
-https://linkedin.com/in/alcantaraleo
-
-🐙 GitHub
-
-https://github.com/alcantaraleo
-
-## Current stack
-
-- Java
-- AI tooling
-- Observability
-- Grafana
-- OpenTelemetry
-- Docker
-- Engineering Analytics
+💼 https://linkedin.com/in/alcantaraleo
 
 ## Philosophy
 
-I believe software engineering is evolving from simply writing code to designing systems that augment human decision making.
+Technology amplifies existing systems. It rarely fixes broken ones.
 
-AI is becoming part of engineering workflows, but operational excellence, quality and human judgment remain the foundation.
+I prefer sustainable improvements over disruptive transformations and evidence over hype.
+
+I believe engineering organizations are socio-technical systems and the same principles we apply to software can be applied to people, processes and knowledge.
