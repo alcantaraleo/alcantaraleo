@@ -35,7 +35,7 @@ Building an ecosystem of AI agents, knowledge systems and publishing workflows t
 
 ## Elsewhere
 
-🌐 Website (coming soon)
+🌐 Website
 
 https://leonardoandreatta.com
 
